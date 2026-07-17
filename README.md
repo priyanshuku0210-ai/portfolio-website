@@ -25,41 +25,41 @@ A modern, responsive, and interactive personal portfolio website built to showca
 
 ### 🏠 Home
 
-![Home](assets/screenshots/home.png)
+![Home](assets/Screenshots/home.png)
 
 ---
 
 ### 👤 About
 
-![About](assets/screenshots/about.png)
+![About](assets/Screenshots/about.png)
 
 ---
 
 ### 💻 Skills
 
-![Skills](assets/screenshots/skills.png)
+![Skills](assets/Screenshots/skills.png)
 
 ---
 
 ### 🚀 Education
 
-![Education](assets/screenshots/education.png)
+![Education](assets/Screenshots/education.png)
 
 ---
 
 ### 💼 Work
 
-![Work](assets/screenshots/work.png)
+![Work](assets/Screenshots/work.png)
 
 ---
 
 ### 📩 Contact
 
-![Contact](assets/screenshots/contact.png)
+![Contact](assets/Screenshots/contact.png)
 
 ### Footer
 
-![Footer](assets/screenshots/footer.png)
+![Footer](assets/Screenshots/footer.png)
 
 ---
 
