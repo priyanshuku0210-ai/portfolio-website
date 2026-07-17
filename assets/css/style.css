@@ -182,7 +182,9 @@ color:white;
   color: rgb(24, 2, 63);
   display: none;
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) 
+
+{
   #menu {
     display: block;
   }
@@ -228,6 +230,66 @@ color:white;
     right: 0;
   }
 }
+/* ===========================
+   Hero Section Mobile
+=========================== */
+
+@media (max-width:768px){
+
+.home{
+    flex-direction: column-reverse;
+    justify-content: center;
+    text-align: center;
+    padding: 8rem 5% 3rem;
+    gap: 2rem;
+}
+
+.home .content{
+    width:100%;
+    padding-top:0;
+}
+
+.home .image{
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+
+.home .image img{
+width:220px;
+height:220px;
+object-fit:cover;
+}
+
+.home .content h2{
+    font-size:3.6rem;
+    line-height:1.25;
+}
+
+.home .content p{
+    font-size:1.7rem;
+    max-width:100%;
+}
+
+.home .content p span{
+    font-size:2rem;
+}
+
+.socials{
+    margin-top:3rem;
+}
+
+.social-icons{
+    justify-content:center;
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+}
+.home .btn{
+margin:auto;
+}
+
+}
 /* hamburger icon ends */
 
 /* hero section starts*/
@@ -243,7 +305,7 @@ align-items:center;
 
 justify-content:space-between;
 
-padding:0 8%;
+padding:10rem 5% 4rem;
 
 overflow:hidden;
 background: linear-gradient(
