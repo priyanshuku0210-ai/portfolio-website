@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Developer Portfolio Website",
+
+    "desc": "Designed and developed a modern, fully responsive portfolio website to showcase my skills, projects, education, and experience. Integrated EmailJS for contact functionality, Tawk.to live chat, animated UI, smooth scrolling, and interactive project cards.",
+
+    "image": "portfolio",
+
+    "category": "portfolio",
+
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "EmailJS",
+      "Tawk.to"
+    ],
+
+    "links": {
+      "view": "https://your-live-demo.com",
+      "code": "https://github.com/priyanshuku0210-ai/Portfolio-Website"
+    }
+  }]
