@@ -17,7 +17,7 @@ A modern, responsive, and interactive personal portfolio website built to showca
 ## 🔗 Live Demo
 
 
-**Portfolio:** *(Add your deployed website URL here)*
+**Portfolio:** https://priyanshuku0210-ai.github.io/portfolio-website/
 
 ---
 ## 📸 Portfolio Preview
